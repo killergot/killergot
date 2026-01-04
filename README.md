@@ -17,9 +17,9 @@
 
 ```yaml
 name: Maxim Morozov
-location: Saint Petersburg, Russia 🇷🇺
+location: Saint Petersburg, Russia
 education: Peter the Great Polytechnic University
-role: Python Developer & Student 
+role: Python Developer & student of the Cybersecurity Department
 
 currently_working_on:
   - Backend APIs with FastAPI
@@ -50,7 +50,7 @@ learning:
   <tr>
     <td align="center" width="50%">
       <h3>🏥 BotKit</h3>
-      <p>Умный Telegram-бот для управления домашней аптечкой</p>
+      <p>Умный Telegram-бот для ведения учета домашней аптечки</p>
       <p>
         <img src="https://img.shields.io/badge/-Tracking-green?style=flat-square" />
         <img src="https://img.shields.io/badge/-Reminders-blue?style=flat-square" />
@@ -105,8 +105,11 @@ learning:
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=killergot&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=killergot&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" />
+  <!-- Вместо vercel.app используйте: -->
+<img src="https://github-readme-stats.vercel.app/api?username=killergot&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Для streak stats попробуйте: -->
+<img src="https://streak-stats.demolab.com?user=killergot&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -120,16 +123,6 @@ learning:
 <p align="center">
   <img src="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
----
-
-## 🎯 Текущие цели на 2025
-
-- [ ] 🚀 Запустить BotKit в продакшн
-- [ ] 📚 Изучить Kubernetes
-- [ ] 🤝 Внести вклад в open-source проекты
-- [ ] 📖 Написать статью на Хабр
-- [ ] 🎓 Успешно закончить семестр в University of Helsinki
 
 ---
 
