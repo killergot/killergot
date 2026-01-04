@@ -98,23 +98,6 @@ learning:
 
 ---
 
-## 📈 GitHub Статистика
-
-<p align="center">
-  <!-- Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=killergot&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <!-- Streak Stats (используй demolab вместо herokuapp) -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=killergot&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killergot&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Змейка активности
 
 <p align="center">
