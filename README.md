@@ -18,20 +18,20 @@
 ```yaml
 name: Maxim Morozov
 location: Saint Petersburg, Russia 🇷🇺
-education: University of Helsinki 🇫🇮
-role: Python Developer & Student
+education: Peter the Great Polytechnic University
+role: Python Developer & Student 
 
 currently_working_on:
-  - Telegram Bots
   - Backend APIs with FastAPI
   - CLI Tools & Automation
+  - Telegram Bots
+  - Web pentest
 
 learning:
   - Advanced Python patterns
   - System Design
   - DevOps practices
-
-fun_fact: "Я создаю ботов, которые делают жизнь проще 🤖"
+  - Revers engeniring
 ```
 
 ---
@@ -121,8 +121,6 @@ fun_fact: "Я создаю ботов, которые делают жизнь п
   <img src="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ *Для работы змейки нужно настроить GitHub Action (инструкция ниже)*
-
 ---
 
 ## 🎯 Текущие цели на 2025
@@ -138,14 +136,11 @@ fun_fact: "Я создаю ботов, которые делают жизнь п
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/rubi_ck">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:disney.132435morozko@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
