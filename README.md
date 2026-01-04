@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Привет%2C+я+Максим+👋;Python+Developer;University+of+Helsinki+Student;Backend+%26+Automation+Enthusiast" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=killergot&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/killergot?style=for-the-badge&color=blue" alt="Followers" />
 </p>
@@ -122,9 +118,12 @@ learning:
 ## 🐍 Змейка активности
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/killergot/killergot/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
-
 ---
 
 ## 📫 Контакты
