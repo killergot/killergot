@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Привет%2C+я+Максим+%F0%9F%91%8B;Python+Developer;University+of+Helsinki+Student;Backend+%26+Automation+Enthusiast" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Привет%2C+я+Максим+👋;Python+Developer;University+of+Helsinki+Student;Backend+%26+Automation+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=killergot&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
