@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+##  Обо мне
 
 ```yaml
 name: Maxim Morozov
@@ -32,13 +32,13 @@ learning:
 
 ---
 
-## ⚡ Технологии и инструменты
+## Технологии и инструменты
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,postgres,redis,docker,kubernetes,git,linux,bash,windows,vscode,obsidian&theme=dark" alt="Skills" />
 </p>
 
-### 🛡️ Cybersecurity & Pentesting
+### Cybersecurity & Pentesting
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -54,7 +54,7 @@ learning:
   <img src="https://img.shields.io/badge/DAST/SAST/SCA-4B0082?style=for-the-badge" />
 </p>
 
-### 🔍 SIEM & Traffic Analysis
+### SIEM & Traffic Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wazuh-3C99DC?style=for-the-badge&logo=wazuh&logoColor=white" />
@@ -70,7 +70,7 @@ learning:
   <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white" />
 </p>
 
-### 🔬 Reverse Engineering
+### Reverse Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge" />
@@ -79,7 +79,7 @@ learning:
   <img src="https://img.shields.io/badge/Binary_Analysis-2F4F4F?style=for-the-badge" />
 </p>
 
-### 🔐 Cryptography & OS Security
+### Cryptography & OS Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cryptography-8B0000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
@@ -88,12 +88,12 @@ learning:
 </p>
 
 
-## 🚀 Мои проекты
+## Мои проекты
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🏥 BotKit</h3>
+      <h3>BotKit</h3>
       <p>Умный Telegram-бот для ведения учета домашней аптечки</p>
       <p>
         <img src="https://img.shields.io/badge/-Tracking-green?style=flat-square" />
@@ -105,7 +105,7 @@ learning:
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🔐 FastApi & TelegramAuth</h3>
+      <h3>FastApi & TelegramAuth</h3>
       <p>Модуль авторизации через Telegram для веб-приложений</p>
       <p>
         <img src="https://img.shields.io/badge/-OAuth-purple?style=flat-square" />
@@ -119,7 +119,7 @@ learning:
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>📦 PacketGen</h3>
+      <h3>PacketGen</h3>
       <p>Генератор и анализатор сетевых пакетов</p>
       <p>
         <img src="https://img.shields.io/badge/-Networking-cyan?style=flat-square" />
@@ -130,7 +130,7 @@ learning:
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>📝 Obsidian Export Helper</h3>
+      <h3>Obsidian Export Helper</h3>
       <p>CLI-инструмент для автоматизации работы с Obsidian</p>
       <p>
         <img src="https://img.shields.io/badge/-CLI-lightgrey?style=flat-square" />
@@ -144,7 +144,7 @@ learning:
   </tr>
   <tr>
     <td align="center" width="50%" colspan="2">
-      <h3>🧮 PolyLang Compiler</h3>
+      <h3>PolyLang Compiler</h3>
       <p>Компилятор собственного языка для решения и вычисления полиномов</p>
       <p>
         <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
