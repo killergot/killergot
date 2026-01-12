@@ -35,7 +35,7 @@ learning:
 ## Технологии и инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,postgres,redis,docker,kubernetes,git,linux,bash,windows,vscode,obsidian&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,postgres,redis,docker,nginx,grafana,git,linux,bash,windows,obsidian,markdown,latex,godot,&theme=dark" alt="Skills" />
 </p>
 
 ### Cybersecurity & Pentesting
