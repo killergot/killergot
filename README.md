@@ -135,7 +135,7 @@ learning:
       <p>
         <img src="https://img.shields.io/badge/-CLI-lightgrey?style=flat-square" />
         <img src="https://img.shields.io/badge/-Automation-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/-⭐_1-gold?style=flat-square" />
+        <img src="https://img.shields.io/badge/-⭐_5-gold?style=flat-square" />
       </p>
       <a href="https://github.com/killergot/Obsidian-export-helper">
         <img src="https://img.shields.io/badge/Смотреть_репозиторий-181717?style=for-the-badge&logo=github" />
